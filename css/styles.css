@@ -1,0 +1,138 @@
+a{
+  color:#11999E;
+  text-decoration: none;
+  font-weight: bold;
+}
+body{
+  margin: 0;
+  margin-bottom: 0;
+background-color: #FFF1F1;
+  text-align: center;
+  border:0;
+  padding:0;
+}
+
+h1{
+  font-family:  'Sacramento',Garamond,Arial,sans-serif;
+  font-size:5.65rem;
+  color:#FC9918;
+  margin:50px auto 0px auto;
+  line-height: 2;
+}
+h2{
+  font-family: monospace, cursive;
+  font-size:2.5rem;
+  color:#FC9918;
+  font-weight:normal;
+}
+h3{
+  color:#66BFBF;
+  font-family: monospace;
+  font-size:1.4rem;
+}
+hr{
+ border-style:none;
+  border-top-style: dotted;
+  width:5%;
+ position: relative;
+ margin-top: 50px;
+  border-color: grey;
+  border-width: thick;
+}
+.bottom-cloud{
+  position:absolute;
+  right:300px;
+  top:150px;
+
+}
+.bottom-container{
+  position: relative;
+  margin-top: 50px;
+  padding-top: 50px;
+ background-color: #141E61;
+
+}
+.btn {
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #1f648f);
+  background-image: -moz-linear-gradient(top, #11cdd4, #1f648f);
+  background-image: -ms-linear-gradient(top, #11cdd4, #1f648f);
+  background-image: -o-linear-gradient(top, #11cdd4, #1f648f);
+  background-image: linear-gradient(to bottom, #11cdd4, #1f648f);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  text-shadow: 1px 0px 1px #666666;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 15px;
+  padding: 10px 32px 10px 29px;
+  border: solid #1f628d 0px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}
+.cp-image{
+  float:right;
+  width:25%;
+
+}
+.description{
+  color:#1A374D;
+  position: relative;
+  padding-bottom: 150px;
+}
+.flt{
+  color:#FC9918;
+}
+.middle-container{
+  margin-top: 50px;
+}
+.profile{
+
+  margin:auto;
+}
+.person{
+  width:15%;
+  position: relative;
+  margin-top: 50px;
+}
+
+.skills{
+  background-color: #FFF1F1;
+  position: relative;
+  margin-top: 50px;
+}
+.skills-class{
+  color:#66BFBF;
+}
+.skill-row{
+  width:50%;
+  margin:100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.top-container{
+  background-color: #141E61;
+  position:relative;
+  padding-top:100px;
+}
+.top-cloud{
+  position:absolute;
+  left:300px;
+  top:250px;
+}
+.webdev-image{
+  float:left;
+  width:25%;
+  position: relative;
+  margin-right: 30px;
+}
